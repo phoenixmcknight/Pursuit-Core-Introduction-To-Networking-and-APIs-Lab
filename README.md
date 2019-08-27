@@ -24,6 +24,7 @@ For each of the questions below, write:
 3. If an app you were writing encountered this status code, what would you do (if anything) to resolve any issues?
 
 200 : 
+
 * https://dog.ceo/api/breeds/image/random 
 *'200' is the standard response for a successful request 
 * there isn't an issue to resolve 
@@ -31,14 +32,17 @@ For each of the questions below, write:
 301 :
 
 400 :
+
 * https://api.twitter.com/1.1/users/show.json
 * '400' is the response when the server can not or will not process a request becasue of an error client-side. 
 * 
 403 : 
+
 *https://fortnite-api.theapinetwork.com/store/get
 *'403' is the response for when the page or resource you were trying to reach is absolutely forbidden for some reason.
 * Contact system admin to determine why you aren't allowed access. 
-404 : 
+
+404 :
 *https://www.google.com/maps/embed/v1/
 *'404' is the response for when the requested resource can not be found. 
 * A potential solution is checking to make sure the url is typed in correctly. 
