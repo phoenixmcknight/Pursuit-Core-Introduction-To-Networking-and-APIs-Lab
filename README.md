@@ -38,6 +38,7 @@ For each of the questions below, write:
 * 
 
 401:
+
 *https://api.spotify.com/v1
 *'401' is the response when the request from the client lacks proper authentication. 
 
