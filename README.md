@@ -36,6 +36,11 @@ For each of the questions below, write:
 * https://api.twitter.com/1.1/users/show.json
 * '400' is the response when the server can not or will not process a request becasue of an error client-side. 
 * 
+
+401:
+*https://api.spotify.com/v1
+*'401' is the response when the request from the client lacks proper authentication. 
+
 403 : 
 
 *https://fortnite-api.theapinetwork.com/store/get
